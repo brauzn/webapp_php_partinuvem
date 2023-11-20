@@ -1,4 +1,4 @@
 <?php
 
-echo "Semana Partiu Nuvem - TFTEC!";
+echo "Sistema de Vendas - Time 19 AZ-900";
 
